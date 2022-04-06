@@ -1,4 +1,4 @@
-/* This will target my div name "container" from the HTML file */
+/* This will target my div name "container" in the HTML file */
 #container {
     height: 200px;
     border: 1px solid black;
@@ -6,5 +6,10 @@
     background-color: red;
     margin-top: 25px;
     padding: 50px;
+    text-align: center;
+}
+
+/* This will target my <h1> tag in the HTML file */
+h1 {
     text-align: center;
 }
