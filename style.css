@@ -1,0 +1,10 @@
+/* This will target my div name "container" from the HTML file */
+#container {
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px 10px 5px 10px;
+    background-color: red;
+    margin-top: 25px;
+    padding: 50px;
+    text-align: center;
+}
