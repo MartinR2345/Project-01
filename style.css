@@ -13,3 +13,9 @@
 h1 {
     text-align: center;
 }
+
+/* This will target my div name "number" in the HTML file */
+#number {
+    font-size: 50px;
+    margin-bottom: 25px;
+}
