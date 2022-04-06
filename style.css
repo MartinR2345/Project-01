@@ -14,8 +14,22 @@ h1 {
     text-align: center;
 }
 
-/* This will target my div name "number" in the HTML file */
+/* This will target my div element name "number" in the HTML file */
 #number {
     font-size: 50px;
     margin-bottom: 25px;
+}
+
+/* This will target my div element name "increment" in the HTML file */
+#increment {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+}
+
+/* This will target my div element name "decrement" in the HTML file */
+#decrement {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
 }
