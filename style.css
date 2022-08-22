@@ -1,10 +1,10 @@
 /* This will target my div name "container" in the HTML file */
 #container {
-    height: 200px;
+    height: 202px;
     border: 1px solid black;
     border-radius: 5px 10px 5px 10px;
-    background-color: red;
-    margin-top: 25px;
+    background-color: blue;
+    margin-top: 130px;
     padding: 50px;
     text-align: center;
 }
@@ -12,12 +12,15 @@
 /* This will target my <h1> tag in the HTML file */
 h1 {
     text-align: center;
+    font-size: 50px;
+    color: yellow;
 }
 
 /* This will target my div element name "number" in the HTML file */
 #number {
     font-size: 50px;
     margin-bottom: 25px;
+    color: yellow;
 }
 
 /* This will target my div element name "increment" in the HTML file */
